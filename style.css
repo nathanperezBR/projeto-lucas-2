@@ -1,0 +1,121 @@
+*{padding: 0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: roboto, sans seriff;
+  
+
+}
+
+header { 
+    height: 30px;
+    background-color: #25535b;
+    
+} 
+
+.bettwen {
+    height: 30px;
+    background-color: #b15330;
+    display: block;
+    position: relative;
+    top: 778px;
+}
+
+/* .principal-content {
+    max-width: 100vw;
+    max-height: 50vh;
+   
+} */
+
+h1 {
+    position: absolute;
+    margin: 200px 0px 0px 50px;
+    font-weight: bolder;
+}
+
+p { 
+    position: absolute;
+    margin: 300px 0px 0px 50px;
+    font-weight:300;
+}
+
+.beneficios { 
+    position: absolute;
+    margin: 400px 0px 0px 50px;
+    height: 20px;
+
+  
+}
+/* .li1 {
+    margin: 0px 0px 0px 50px;
+}
+.li2 {
+    margin: -778px 165px;
+}
+.li3 {
+    margin: 0px 280px;
+}
+.li4 {
+    margin: -778px 390px;
+    
+} */
+
+
+
+ 
+.rotula {
+    position: absolute;
+    opacity: 80%;
+    background-size:cover;
+    display: block; 
+    width:100%;
+    height:100vh; 
+
+    
+}
+
+
+iframe {
+   
+    height:75vh;
+    width: 100%;
+    display: block;
+    position: absolute;
+    margin: 778px 0px;
+    
+}
+
+form { 
+
+        position:absolute;
+        margin: 600px 50px;
+
+
+
+}
+
+footer {
+    background-color: #062d3e;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    height:80px;
+    display: inline;
+
+
+}
+
+.logo-cassius {
+    max-height: 100px;
+    display:block;
+    position: relative;
+    margin: -3px 0px 0px 25px;
+
+
+}
+
+.logo-lucas {
+    max-height: 100px;
+    display:block;
+    position: relative;
+    margin: -97px 0px 0px 200px;
+}
